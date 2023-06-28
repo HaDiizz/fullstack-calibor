@@ -13,24 +13,24 @@ Install Client
 cd client
 ```
 ```shell
-cd npm install
+npm install
 ```
 Install Server
 ```shell
 cd server
 ```
 ```shell
-cd npm install
+npm install
 ```
 > *Before run project, You need to create and config .env in both folders.*
 
 Run Client Project
 ```shell
-cd npm run dev
+npm run dev
 ```
 Run Server Project
 ```shell
-cd npm start
+npm start
 ```
 
 ## Preview Demo
